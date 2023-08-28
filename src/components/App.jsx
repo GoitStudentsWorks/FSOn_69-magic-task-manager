@@ -72,7 +72,7 @@ export const App = () => {
       },
     ],
     {
-      basename: '/project-magic-task-manager',
+      basename: '/FSOn_69-magic-task-manager',
     }
   );
 
