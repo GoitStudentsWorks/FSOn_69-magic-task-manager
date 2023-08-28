@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FSOn_69-magic-task-manager/static/css/main.e9339ccd.css",
-    "main.js": "/FSOn_69-magic-task-manager/static/js/main.56417002.js",
+    "main.js": "/FSOn_69-magic-task-manager/static/js/main.f952a4e2.js",
     "static/css/406.033ea451.chunk.css": "/FSOn_69-magic-task-manager/static/css/406.033ea451.chunk.css",
     "static/js/406.58745b10.chunk.js": "/FSOn_69-magic-task-manager/static/js/406.58745b10.chunk.js",
     "static/css/107.22105fc1.chunk.css": "/FSOn_69-magic-task-manager/static/css/107.22105fc1.chunk.css",
@@ -58,7 +58,7 @@
     "static/media/icons_sprite_Board.svg": "/FSOn_69-magic-task-manager/static/media/icons_sprite_Board.9f18d0d5be7521d7581c1e46115e0347.svg",
     "index.html": "/FSOn_69-magic-task-manager/index.html",
     "main.e9339ccd.css.map": "/FSOn_69-magic-task-manager/static/css/main.e9339ccd.css.map",
-    "main.56417002.js.map": "/FSOn_69-magic-task-manager/static/js/main.56417002.js.map",
+    "main.f952a4e2.js.map": "/FSOn_69-magic-task-manager/static/js/main.f952a4e2.js.map",
     "406.033ea451.chunk.css.map": "/FSOn_69-magic-task-manager/static/css/406.033ea451.chunk.css.map",
     "406.58745b10.chunk.js.map": "/FSOn_69-magic-task-manager/static/js/406.58745b10.chunk.js.map",
     "107.22105fc1.chunk.css.map": "/FSOn_69-magic-task-manager/static/css/107.22105fc1.chunk.css.map",
@@ -78,6 +78,6 @@
   },
   "entrypoints": [
     "static/css/main.e9339ccd.css",
-    "static/js/main.56417002.js"
+    "static/js/main.f952a4e2.js"
   ]
 }
