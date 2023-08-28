@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GoitStudentsWorks/FSOn_69-magic-task-manager/",
+  "homepage": "https://goitstudentsworks.github.io/FSOn_69-magic-task-manager/",
   "dependencies": {
     "@emotion/styled": "^11.11.0",
     "@react-oauth/google": "^0.11.1",
